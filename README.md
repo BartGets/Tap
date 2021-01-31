@@ -1,2 +1,2 @@
 # Tap
-Pay
+Pay$$
